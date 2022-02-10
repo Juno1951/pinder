@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="My menu" />
+        <item android:title="프로필" />
+        <item android:title="반려동물 등록" />
+        <item android:title="맞춤 알림" />
+    </group>
+    <group >
+        <item android:title="Information" />
+        <item android:title="공지사항" />
+        <item android:title="문의하기" />
+        <item android:title="동물 관련 정보" />
+    </group>
+</menu>
